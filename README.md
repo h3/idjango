@@ -1,0 +1,4 @@
+idjango
+=======
+
+Experimental project
